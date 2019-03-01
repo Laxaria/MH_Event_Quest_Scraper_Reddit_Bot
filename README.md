@@ -12,7 +12,7 @@ This bot will also save a JSON file of the available event quests.
     praw
     requests
 
-Python >3.6.0
+Python >3.7.0
 
 ## Bot set-up
 
