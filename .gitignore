@@ -1,0 +1,3 @@
+# Ignore all .sh files
+*.sh
+.DS_Store
