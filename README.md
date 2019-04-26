@@ -8,11 +8,11 @@ This bot will also save a JSON file of the available event quests.
 
 ## Requirements
 
-    BeautifulSoup
+    beautifulsoup4
     praw
     requests
 
-Python >3.6.0
+Python >3.7.0
 
 ## Bot set-up
 
